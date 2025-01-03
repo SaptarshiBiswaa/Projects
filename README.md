@@ -4,7 +4,7 @@ This folder contains 4 jupyter notebooks and external links containing projects 
 
 1. [ML code sample.ipynb](https://github.com/SaptarshiBiswaa/sample_projects/blob/main/ML%20code%20sample.ipynb):
 
-Here I compare two **machine learning models**, $Random$ $Forest$ (ran over $scikit-learn$) and $Dense$ $Neural$ $Network$ (on $Keras$), on a classification problem. Appropriate tuning of hyperparameters and layer configurations is performed to achieve high predictive ability.
+Here I compare two **machine learning models**, $Random$ $Forest$ (ran over $scikit-learn$) and $Dense$ $Neural$ $Network$ (on $Keras$), and find their performance on a classification problem. Appropriate tuning of hyperparameters and layer configurations is done to achieve high predictive ability.
 
 2. [python_code_sample.ipynb](https://github.com/SaptarshiBiswaa/sample_projects/blob/main/Python_code_sample.ipynb):
 
