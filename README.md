@@ -18,4 +18,6 @@ This is an example of **time series forecasting**. Here, the **ARIMA** model is 
 
 Here I use **SQL** to query a public dataset on $Bigquery$ from an international census to analyze the growth of female population in India.
 
-5. [Shiny visualization](https://xlf8g9-saptarshi-biswas.shinyapps.io/cars1/): leading to one of my works on **Shiny** data visualization.
+5. [Shiny visualization](https://xlf8g9-saptarshi-biswas.shinyapps.io/cars1/):
+  
+This is a visualization of a public data about fuel consumption (in miles-per-gallon or, mpg) of cars in a certain city. We want to understand how a car's fuel consumption is related to its build configuration. For that, each car is classified into two categories based on its fuel consumption falling below or, above a threshold. Then, we visualize the category of each car against various aspects of its build.
