@@ -2,6 +2,8 @@
 
 This folder contains 4 jupyter notebooks and external links containing projects to exemplify my skills related to $Data$ $analysis$, $Data$ $science$ and $Quantitative$ $analysis$. Following are their hyperlinks and brief description.
 
+1. [Google data analytics capstone project]()
+
 1. [ML code sample.ipynb](https://github.com/SaptarshiBiswaa/sample_projects/blob/main/ML%20code%20sample.ipynb):
 
 Here I compare two **machine learning models**, $Random$ $Forest$ (ran over $scikit-learn$) and $Dense$ $Neural$ $Network$ (on $Keras$), and find their performance on a classification problem. Appropriate tuning of hyperparameters and layer configurations is done to achieve high predictive ability.
