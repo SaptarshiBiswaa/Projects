@@ -1,3 +1,8 @@
+# My resume:
+
+![Saptarshi resume](https://github.com/user-attachments/assets/a4f1e9c7-e31d-4beb-95e4-187df266c072)
+You can download the CV from [here](https://github.com/user-attachments/files/18326493/Saptarshi.resume.pdf)
+
 # Sample codes:
 
 This folder contains 4 jupyter notebooks and external links containing projects to exemplify my skills related to $Data$ $analysis$, $Data$ $science$ and $Quantitative$ $analysis$. Following are their hyperlinks and brief description.
