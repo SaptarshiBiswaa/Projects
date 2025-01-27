@@ -1,7 +1,7 @@
 # My resume:
 
-![saptarshi resume](https://github.com/user-attachments/assets/48942fb5-27f8-494b-976a-a0944008a30d)
-You can download the CV from [here](https://github.com/user-attachments/files/18553725/saptarshi.resume.pdf)
+![Saptarshi resume](https://github.com/user-attachments/assets/76aa171a-eb15-4a81-8f6d-8b62f45f2cf3)
+You can download the CV from [here](https://github.com/user-attachments/files/18562098/Saptarshi.resume.pdf)
 
 # Sample codes:
 
